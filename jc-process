@@ -9,4 +9,11 @@ if [ ! -f *.cue ]; then
 fi
 }
 
+# Slice it up
 ../slicr $1.cue
+cd ..
+
+# Make some mp3s
+# shn2mp3 -b 256 $1.flac16
+
+done
