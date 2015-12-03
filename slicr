@@ -9,7 +9,7 @@ echo
 echo
 echo "This script will convert, split rename and tag FLAC files with an associated cue and txt file"
 echo
-echo 
+echo
 echo
 echo
 echo
@@ -53,10 +53,10 @@ cp $FILENAME.txt ../cues
 rpl -q '(' '' $FILENAME.txt
 rpl -q ')' '' $FILENAME.txt
 echo -e "\n" >> $FILENAME.txt
-echo "Source: phrog@etree.org" >> $FILENAME.txt
+echo "Source: Jam Cruise - Cruise Tunes" >> $FILENAME.txt
 rm 00*.flac
 cd ../
-echo 
+echo
 echo
 echo "Running Flacify"
 flacify $FILENAME

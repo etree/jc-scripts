@@ -1,0 +1,12 @@
+#!/bin/bash
+cd $1
+echo looking for $1.cue
+ls $1.cue
+{
+if [ ! -f *.cue ]; then
+    echo "File not found!"
+    exit 0
+fi
+}
+
+../slicr $1.cue
