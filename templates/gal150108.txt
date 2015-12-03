@@ -3,26 +3,26 @@ Pool Deck
 01/08/15
 
 Disc 1
-(01) Karate
-(02) Higher *
-(03) Hard Times * ^
-(04) Heart Of Steel * 
-(05) Doublewide 
-(06) Mystery Train
-(07) Tornado **
-(08) Bottle Up And Go ^^
+01 Karate
+02 Higher *
+03 Hard Times * ^
+04 Heart Of Steel *
+05 Doublewide
+06 Mystery Train
+07 Tornado **
+08 Bottle Up And Go ^^
 
 Disc 2
-(01) I Can't Stand The Rain *
-(02) Technocheck Collision ***
-(03) Ooh Nah Nay ^^^
-(04) Groovy Lady +
-(05) Does It Really Make A Difference * 
-(06) Hamp's Hump ++
-(07) Dolla Diva * +++
-(08) All Along The Watchtower +++ [Bob Dylan]
+09 I Can't Stand The Rain *
+10 Technocheck Collision ***
+11 Ooh Nah Nay ^^^
+12 Groovy Lady +
+13 Does It Really Make A Difference *
+14 Hamp's Hump ++
+15 Dolla Diva * +++
+16 All Along The Watchtower +++ [Bob Dylan]
 
-NOTE - Mike D (Percussion) on entire set
+NOTE - Mike D Percussion on entire set
 
 * - w/ Erica Falls
 ^ - w/ Corey Henry
@@ -33,3 +33,4 @@ NOTE - Mike D (Percussion) on entire set
 + - w/ John Gros & George Porter, Jr
 ++ - w/ Ivan Neville & Joe Cabral
 +++ - w/ Weedy & David Shaw
+
